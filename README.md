@@ -1,6 +1,3 @@
-Got it! Here's the updated README tailored for a backup tool written in Rust:
-
----
 
 # Rust Backup Tool
 
