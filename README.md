@@ -58,8 +58,7 @@ Contributions are welcome! If you have any ideas for improvements or new feature
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgements
-- Thanks to [Author Name] for inspiration and guidance.
-- Special thanks to [Contributor Name] for their contributions to the project.
+- Thanks to Lukas Enderle for inspiration and guidance.
 
 ---
 
